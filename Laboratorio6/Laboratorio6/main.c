@@ -4,7 +4,7 @@
  * Laboratorio6.c
  * Autor: Alma Lisbeth Mata Ixcayau
  * Proyecto: Laboratorio 6
- * Descripcion: Control de servomotores y led con PWM
+ * Descripcion: Comunicación serial
  * Creado: 24/04/2025
 */
 /****************************************/
